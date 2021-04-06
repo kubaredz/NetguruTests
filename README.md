@@ -4,7 +4,7 @@ Exercise
 Hi,
 I prepared two simple automated tests in reference to exercise 2.1 in Selenium Web Driver using Maven(Java).
 
-There are two classes called LogInNewAccount and RegisterNewAccount. Two separately tests.
+There are two run classes called LogInNewAccount and RegisterNewAccount. Two separately tests.
 
 #Running Examples
 - Download the zip or clone the Git repository.<br>
